@@ -1,0 +1,29 @@
+<xml>
+    <page>
+        <title>Liverpool</title>
+        <id>1</id>
+        <text>Liverpool is a football team associated in Liverpool, England. 
+        The club plays in the [[EPL|Premier League]], the highest division of 
+        the English league. They have won a total of 6 
+        Champions League European titles. Their current biggest [[rivals]] 
+        are [[Manchester City|Man City]]. </text>
+    </page>
+    <page>
+        <title>Manchester City</title>
+        <id>2</id>
+        <text>Manchester City is a football team associated in Manchester, UK. 
+        They have recently risen to domestic dominance, winning 4 out of the 5 
+        last [[EPL|Premier League]] titles. Some of their best players include 
+        [[Kevin de Bruyne]], [[Raheem Sterling]], and [[Bernardo Silva]]. 
+        </text>
+    </page>
+    <page>
+        <title>EPL</title>
+        <id>3</id>
+        <text>The EPL stands for the English Premier League and is a football 
+            league based in the United Kingdom. Some of its most prominent 
+            football clubs include Manchester United, [[Liverpool]], 
+            [[Manchester City]], [[Arsenal]], [[Tottenham Hotspur]], and 
+            [[Chelsea]].</text>
+    </page>
+</xml>

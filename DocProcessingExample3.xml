@@ -1,0 +1,6 @@
+<xml>
+    <page><title>Cats</title><id>1</id><text>Cats are cool. [[Dogs|Canines]]</text></page>
+    <page><title>Dogs</title><id>2</id><text>Dogs are cool</text></page>
+    <page><title>Mice</title><id>3</id><text>Mice are cool</text></page>
+    <page><title>Rabbits</title><id>4</id><text>Rabbits are [[animals]]</text></page>
+</xml>

@@ -1,0 +1,18 @@
+<xml>
+    <page>
+        <title>How I Met Your Mother</title>
+        <id>1</id>
+        <text>Best show. </text>
+    </page>
+    <page>
+        <title>Brooklyn 99</title>
+        <id>2</id>
+        <text>Also a funny, funny show. 
+        </text>
+    </page>
+    <page>
+        <title>Parks and Recreation</title>
+        <id>3</id>
+        <text>Another funny show.</text>
+    </page>
+</xml>

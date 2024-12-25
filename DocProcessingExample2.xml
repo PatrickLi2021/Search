@@ -1,0 +1,94 @@
+<xml>
+    <page>
+        <title>Philadelphia 76ers</title>
+        <id>1</id>
+        <text> The Philadelphia 76ers are a professional 
+            [[Category: Basketball (sport)]] team based in Philadelphia, 
+            Pennsylvania. They play in the Atlantic Division of the 
+            [[National Basketball Association|NBA]]. They 
+            have won 3 NBA championships (in 1955, 1967, and 1983). Some of 
+            their best players include [[Joel Embiid]], James Harden, 
+            [[Tobias Harris]], and Tyrese Maxey. Their main rivals include the 
+            [[Celtics|Boston Celtics]], [[Raptors|Toronto Raptors]], 
+            [[New York Knicks]], and [[Brooklyn Nets]]. 
+        </text>
+    </page>
+    <page>
+        <title>Raptors</title>
+        <id>2</id>
+        <text>The Toronto Raptors are a professional basketball team based in 
+            Toronto, Ontario, Canada. They play in the Atlantic Division of the 
+            [[National Basketball Association|NBA]] Some of their best players 
+            include [[Scottie Barnes]], [[Pascal Siakam]], and 
+            [[Fred VanVleet]].
+        </text>
+    </page>
+    <page>
+        <title>Celtics</title>
+        <id>3</id>
+        <text>The Boston Celtics are a professional basketball team based in 
+            Boston, Massachusetts. They play in the Atlantic Division of the 
+            [[National Basketball Association|NBA]]. Some of their best players 
+            include [[Jayson Tatum]], [[Jaylen Brown]], and Marcus Smart.</text>
+    </page>
+    <page>
+        <title>New York Knicks</title>
+        <id>4</id>
+        <text>The New York Knicks are a professional basketball team based in 
+            New York, New York. They play in the Atlantic Division of the 
+            [[National Basketball Association|NBA]]. Some of their best players 
+            include [[Julius Randle]], [[RJ Barrett]], and Mitchell Robinson.
+        </text>
+    </page>
+    <page>
+        <title>Brooklyn Nets</title>
+        <id>5</id>
+        <text>The Brooklyn Nets are a professional basketball team based in 
+            New York, New York. Some of their best players include Kevin Durant, 
+            Kyrie Irving, and [[Ben Simmons]].
+        </text>
+    </page>
+    <page>
+        <title>Scottie Barnes</title>
+        <id>6</id>
+        <text>Scottie Barnes is an NBA player for the [[Raptors|Toronto Raptors]]
+        </text>
+    </page>
+    <page>
+        <title>Pascal Siakam</title>
+        <id>7</id>
+        <text>Pascal Siakam is an NBA player for the [[Raptors|Toronto Raptors]]
+        </text>
+    </page>
+    <page>
+        <title>Fred VanVleet</title>
+        <id>8</id>
+        <text>Fred VanVleet is an NBA player for the [[Raptors|Toronto Raptors]]
+        </text>
+    </page>
+    <page>
+        <title>Joel Embiid</title>
+        <id>9</id>
+        <text>Joel Embiid is an NBA player for the [[Philadelphia 76ers]].</text>
+    </page>
+    <page>
+        <title>Tobias Harris</title>
+        <id>10</id>
+        <text>Tobias Harris is an NBA player for the [[Philadelphia 76ers]].
+        </text>
+    </page>
+    <page>
+        <title>National Basketball Association</title>
+        <id>11</id>
+        <text>The National Basketball Association (NBA) is a professional 
+            basketball league based in the United States that is widely 
+            regarded as the best basketball league in the world.
+        </text>
+    </page>
+    <page>
+        <title>Category: Basketball (sport)</title>
+        <id>12</id>
+        <text>[[National Basketball Association|NBA]], [[ball]], [[sports]]
+        </text>
+    </page>
+</xml>

@@ -1,0 +1,35 @@
+<xml>
+    <page>
+        <title>Miami Heat</title>
+        <id>1</id>
+        <text>[[Atlanta Hawks]] [[Charlotte Hornets]] [[Orlando Magic]] 
+            [[Orlando Magic]]
+        </text>
+    </page>
+    <page>
+        <title>Charlotte Hornets</title>
+        <id>2</id>
+        <text> [[Charlotte Hornets]] [[Miami Heat]] [[Atlanta Hawks|Hawks]] 
+            [[Orlando Magic]]
+        </text>
+    </page>
+    <page>
+        <title>Atlanta Hawks</title>
+        <id>3</id>
+        <text>[[Miami Heat|Heat]] [[Charlotte Hornets]] [[Orlando Magic|Magic]]
+        </text>
+    </page>
+    <page>
+        <title>Orlando Magic</title>
+        <id>4</id>
+        <text>[[Miami Heat]] [[Miami Heat]] [[Atlanta Hawks]] 
+            [[Charlotte Hornets|Hornets]]
+        </text>
+    </page>
+    <page>
+        <title>Dallas Mavericks</title>
+        <id>5</id>
+        <text>[[Atlanta Hawks]] [[Charlotte Hornets|Hornets]]
+        </text>
+    </page>
+</xml>

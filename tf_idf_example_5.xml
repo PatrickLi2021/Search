@@ -1,0 +1,15 @@
+<xml>
+    <page>
+        <title>Hello</title>
+        <id>1</id>
+        <text>hello is such an interesting word. for example, look at [[Goodbye|this]]
+        </text>
+    </page>
+    <page>
+        <title>bye</title>
+        <id>2</id>
+        <text>bye is also a super interesting word. but, it means something different from hello.
+        for instance, have a glance at this page [[see you later | hello, click this]]
+        </text>
+    </page>
+</xml>

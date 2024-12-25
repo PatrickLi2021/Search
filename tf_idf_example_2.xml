@@ -1,0 +1,22 @@
+<xml>
+    <page>
+        <title>Soccer</title>
+        <id>1</id>
+        <text>Ronaldo Messi Salah Salah Messi 
+              Messi Mbappe Haaland Mbappe </text>
+    </page>
+    <page>
+        <title>Basketball</title>
+        <id>2</id>
+        <text>James Embiid Embiid Durant Irving Irving Embiid Jokic Jokic Jokic 
+            Jokic DeRozan DeRozan Booker Booker Booker
+    </text>
+    </page>
+    <page>
+        <title>Football</title>
+        <id>3</id>
+        <text>Rodgers Brady Brady Brady Rodgers Mahomes Mahomes Jackson Jackson 
+            Jackson Adams Adams Ertz Ertz Murray Murray Murray Murray Murray
+        </text>
+    </page>
+</xml>

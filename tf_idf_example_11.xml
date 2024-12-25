@@ -1,0 +1,22 @@
+<xml>
+    <page>
+        <title>Foods</title>
+        <id>1</id>
+        <text>Apples Bananas Oranges Tomatoes </text>
+    </page>
+    <page>
+        <title>Fruits</title>
+        <id>2</id>
+        <text>Apples Bananas Oranges Tomatoes </text>
+    </page>
+    <page>
+        <title>Comestibles</title>
+        <id>3</id>
+        <text>Apples Bananas Oranges Tomatoes </text>
+    </page>
+    <page>
+        <title>Consumables</title>
+        <id>4</id>
+        <text>Apples Bananas Oranges Tomatoes </text>
+    </page>
+</xml>

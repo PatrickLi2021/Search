@@ -1,0 +1,15 @@
+<xml>
+    <page>
+        <title>EVERYTHING</title>
+        <id>1</id>
+        <text>this link will link to every other page with other links 
+            [[EVERYTHING]] and [[OTHER]].
+        </text>
+    </page>
+    <page>
+        <title>OTHER</title>
+        <id>2</id>
+        <text>this is the other page. [[EVERYTHING]] [[OTHER]]
+        </text>
+    </page>
+</xml>
